@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "SubHub",
             url: "https://github.com/MoYoDream/subhub-ios-sdk/releases/download/0.1.0/SubHub.xcframework.zip",
-            checksum: "54a7f7ba79171c8e9105fb30ed2e94feac81e1e84dff95a8c9db03c59dd67e89"
+            checksum: "58196a1e15456ae0d92809e5bf22ac736701b4e30a828b6752a2ee8c96ef249b"
         ),
     ]
 )
